@@ -1,0 +1,20 @@
+.image {
+  height: 95px;
+  width: 125px;
+}
+.list-item {
+  list-style-type: none;
+  color: aliceblue;
+  justify-content: space-around;
+  display: flex;
+  margin: 15px;
+}
+.genre {
+  color: #3b82f6;
+  font-size: 15px;
+  font-weight: 500;
+}
+.button {
+  background-color: transparent;
+  color: aliceblue;
+}
